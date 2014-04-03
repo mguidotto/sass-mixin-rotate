@@ -1,4 +1,10 @@
 sass-mixin-rotate
 =================
 
-Mixin for rotating text in SASS
+This mixins helps you for rotating element and mantaining the quality of the Text inside
+
+
+USE:
+
+
+@include fallbackroate(numberdeg)
